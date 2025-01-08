@@ -52,7 +52,8 @@ Author URI: http://www.bootstrapthemes.co
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color: #e7e7e7;
         margin-top: 53px;
-        background: #ff0000;
+        background: #f4f1e9
+        ;
     }
     .menu-scroll .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         margin-top: 12px;

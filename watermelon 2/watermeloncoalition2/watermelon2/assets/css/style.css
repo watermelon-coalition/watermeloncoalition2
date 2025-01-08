@@ -10,6 +10,15 @@ Author URI: http://bootstrapthemes.co
     #149954
     #d02c00
    ========================================================================== */
+
+   @font-face {
+    font-family: 'OpenDyslexic';
+    src: url('fonts/OpenDyslexic-Regular.otf') format('opentype');
+}
+
+body {
+    font-family: 'OpenDyslexic', sans-serif;
+}
 html,
 body {
     background-color: #f4f1e9;
@@ -160,9 +169,10 @@ h1 {
     font-weight: 900;
 }
 h2 {
+    
     font-size:3rem;
     line-height: 3rem;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'OpenDyslexic', sans-serif !important; 
     font-weight: 700;
 }
 h3 {
