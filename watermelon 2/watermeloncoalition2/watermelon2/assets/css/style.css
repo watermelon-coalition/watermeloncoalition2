@@ -207,7 +207,7 @@ p:last-child {
     color: #fff;
 }
 .blackbg{
-    background: #000;
+    background: #004689;
 }
 .lightbg {
     background-color: #f9f9f9;
@@ -377,7 +377,7 @@ Button
     border-color: #ccc;
 }
 .btn-default:hover {
-    color: #333;
+    color: #004689;
     background-color: #fff;
     border-color:#000;
 }
